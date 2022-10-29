@@ -17,6 +17,8 @@ public class Main{
     public  static int axror2(){
         int a=1,b=2;
         return a+b;
-
     }
+    public static int connectToGitHub(){
+            System.out.println("hello");
+        }
 }
