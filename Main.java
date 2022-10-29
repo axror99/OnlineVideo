@@ -3,4 +3,8 @@ public class Main{
         System.out.println("Axror");
         System.out.println("Baxromaliyev");
     }
-} 
+    public static void axror(){
+        System.out.println("kjbsdcjkbs");
+        System.out.println("shvchvsch");
+    }
+}
