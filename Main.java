@@ -7,4 +7,10 @@ public class Main{
         System.out.println("kjbsdcjkbs");
         System.out.println("shvchvsch");
     }
+    public static void asil(){
+        System.out.println("sdc bskcb" +
+                "skljdcnlskdnc" +
+                "skjdcbskjbckjs" +
+                "sjkdnclsdnc");
+    }
 }
